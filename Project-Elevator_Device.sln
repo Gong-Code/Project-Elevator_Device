@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Elevator_Device", "Project-Elevator_Device\Project-Elevator_Device.csproj", "{61B33B8A-E4E4-48CF-B855-D5498C247473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Elevator_Device.Tests", "Project-Elevator_Device.Tests\Project-Elevator_Device.Tests.csproj", "{A0CC6D26-7B67-4CC1-8735-3C74E97725D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B33B8A-E4E4-48CF-B855-D5498C247473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B33B8A-E4E4-48CF-B855-D5498C247473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B33B8A-E4E4-48CF-B855-D5498C247473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B33B8A-E4E4-48CF-B855-D5498C247473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0CC6D26-7B67-4CC1-8735-3C74E97725D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0CC6D26-7B67-4CC1-8735-3C74E97725D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0CC6D26-7B67-4CC1-8735-3C74E97725D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0CC6D26-7B67-4CC1-8735-3C74E97725D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A5CC3E2-CFAB-4E6E-9B2E-78141A9BA111}
+	EndGlobalSection
+EndGlobal
